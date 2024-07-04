@@ -1,4 +1,5 @@
-Weather React App
+<b><h1>Weather React App</h1><br/></b>
+
 Description
 The Weather React App is a simple and intuitive web application built with React that allows users to fetch and display real-time weather information by entering a city name. The app uses an external weather API to retrieve data and presents it in a user-friendly format.
 

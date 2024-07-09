@@ -16,6 +16,7 @@ The Weather React App is a simple and intuitive web application built with React
 </br></br>
 <b>User-Friendly Interface:</b> Simple and clean design for an optimal user experience.</br>
 </br></br>
+<img src="weather1.jpg" ></img><br>
 <b>How to Use</b></br>
 </br></br>
 <b>🏙️Enter City Name:</b> Type the name of the city you want to get the weather information for in the input field.</br>
